@@ -1,0 +1,15 @@
+div{
+    border:1px solid;
+    background-color: lightblue;
+}
+h1{
+    border:1px solid;
+
+}
+#container{
+    background-color: darkorange;
+    padding: 25px 25px;
+    display: flex;
+    justify-content: space-around;
+
+}
